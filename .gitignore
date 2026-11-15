@@ -1,9 +1,11 @@
+# Gerado ao compilar
+Espelho.exe
+
 # Baixado automaticamente na primeira execução (scrcpy)
 programa/
 baixando.zip
 temp_extraido/
 
 # Arquivos gerados no computador de cada pessoa
-configuracoes.json
-espelho.ico
+configuracoes.ini
 Jogos/
